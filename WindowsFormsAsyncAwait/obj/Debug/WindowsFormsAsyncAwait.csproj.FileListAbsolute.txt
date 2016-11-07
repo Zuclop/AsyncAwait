@@ -1,0 +1,9 @@
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.FileLoggerForm.resources
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.exe
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\bin\Debug\WindowsFormsAsyncAwait.pdb
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.exe
+c:\users\jack\documents\visual studio 2015\Projects\WindowsFormsAsyncAwait\WindowsFormsAsyncAwait\obj\Debug\WindowsFormsAsyncAwait.pdb
